@@ -23,8 +23,7 @@ Annotated Seurat object containing manually assigned cell identities
 based on marker gene expression.
 
 ## Raw data
-Raw sequencing data are not stored in this repository due to file size.
-Data originate from publicly available hematopoietic scRNA-seq datasets.
+Raw sequencing data are not included in this repository due to file size constraints. Datasets were provided as part of a collaborative hematopoietic single-cell RNA-seq analysis project and included multiple experimental datasets used for pipeline development and comparative analysis.
 
 ## Software
 Objects were generated using:
